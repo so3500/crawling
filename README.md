@@ -20,11 +20,9 @@
 
 ![alt text](screenshot/product_schema.png )
 
-- table product_0526
+- table product_05_ chema
 
 ![alt text](screenshot/product_0526_schema.png )
-
-- table product_0526_ chema
 
 ### 시각화 결과
 - visual_1.py 의 결과
